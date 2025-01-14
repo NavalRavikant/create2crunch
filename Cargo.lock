@@ -321,6 +321,7 @@ dependencies = [
  "byteorder",
  "console",
  "fs4",
+ "hex",
  "ocl",
  "rand",
  "rayon",
